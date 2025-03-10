@@ -29,5 +29,8 @@ Foi desenhado para uso por uma entidade intermediária (Concentrador) que recebe
 8. Cadastro de itens e preços;
 9. Auxílio ao Concentrador com exibição de preços, cálculo automático de valor total de compras, e emissão de pdf para pedidos ao Fornecedor;
 10. Geração de relatório mensal de métricas de entrega do Fornecedor;
+11. Campos adicionais para controle de entrega: Nota Fiscal, Data de Entrega;
+12. Funcionalidade de emissão de documentos intermediários: ordem de reparo e ordem de aquisição;
+13. Exportar dados em xlsx.
 
 
