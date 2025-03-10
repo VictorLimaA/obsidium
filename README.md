@@ -4,16 +4,15 @@ Obsidium is a software for Win7/Windows/Linux* used for contract and order manag
 
 Special Thanks / Direct Contributors:
 
-Tiago Moroni Camargo
-Niel Godoy Silva
-Hudson Silva
-Renato Pereira Vieira
-Hugo Maretti dos Santos
-David Guadagnino Damazio
-Gabriel Andrusaitis
-Maxwel Marinho de Alcantara
-Erlano Guimarães Cordeiro
-
+- Tiago Moroni Camargo
+- Niel Godoy Silva
+- Hudson Silva
+- Renato Pereira Vieira
+- Hugo Maretti dos Santos
+- David Guadagnino Damazio
+- Gabriel Andrusaitis
+- Maxwel Marinho de Alcantara
+- Erlano Guimarães Cordeiro
 
 
 
@@ -30,3 +29,5 @@ Foi desenhado para uso por uma entidade intermediária (Concentrador) que recebe
 8. Cadastro de itens e preços;
 9. Auxílio ao Concentrador com exibição de preços, cálculo automático de valor total de compras, e emissão de pdf para pedidos ao Fornecedor;
 10. Geração de relatório mensal de métricas de entrega do Fornecedor;
+
+
